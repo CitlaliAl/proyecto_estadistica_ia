@@ -182,5 +182,3 @@ No hay suficiente evidencia estadística para afirmar que la media es diferente.
 
     else:
         st.warning("Primero realiza una prueba de hipótesis")
-            
-            
